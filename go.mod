@@ -6,13 +6,13 @@ require (
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/jamesnetherton/m3u v0.4.0
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/ngdio/go.xtream-codes v0.0.0-20240825211404-b400c3744cd2
 	github.com/satori/go.uuid v1.2.0
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/viper v1.8.1
 )
 
 require (
+	github.com/almo7aya/go.xtream-codes v0.0.0-20250116221537-0fd5655773c7 // indirect
 	github.com/bytedance/sonic v1.8.0 // indirect
 	github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311 // indirect
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
